@@ -1,0 +1,22 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+    "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Babar",
+  "contributors": [],
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.15.3"
+  }
+}
